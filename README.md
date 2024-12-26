@@ -1,4 +1,4 @@
-My project is about "Hostel Vacancy Management system", which involves creating a system to manage the availability of vacant rooms in differnt hostels. The project includes features for both students and administrators.
+My project is about "Hostel Vacancy Management system", which involves creating a system to manage the availability of vacant rooms in different hostels. This project includes features for both students and administrators.
 
 i)Features for Students:
 
