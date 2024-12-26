@@ -1,4 +1,4 @@
-My project is about "Hostel Vacancy Management system", which involves creating a system to manage the availability of beds in a hostel. The project includes features for both students and administrators.
+My project is about "Hostel Vacancy Management system", which involves creating a system to manage the availability of vacant rooms in differnt hostels. The project includes features for both students and administrators.
 
 i)Features for Students:
 
@@ -30,11 +30,9 @@ v)Technologies Used:
 
 3.MySQL: Hostel data is stored and managed using a MySQL database.
 
-4.PIL (Python Imaging Library): PIL is used for image processing, specifically for resizing and displaying images within the GUI.
+4.CSV (Comma-Separated Values): CSV files are used for storing and displaying history data.
 
-5.CSV (Comma-Separated Values): CSV files are used for storing and displaying history data.
-
-Overall, the project aims to provide a user-friendly interface for managing hostel vacancies efficiently, catering to both students and administrators' needs. It facilitates easy access to hostel information, data management, and user authentication, contributing to effective hostel vacancy management.
+Overall, this project aims to provide a user-friendly interface for managing hostel vacancies efficiently, for both students and administrators needs. It facilitates easy access to hostel information, data management, and user authentication, contributing to effective hostel vacancy management.
 
 
 
