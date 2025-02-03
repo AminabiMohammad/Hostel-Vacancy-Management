@@ -2,7 +2,7 @@
 
 ## **📚 Project Overview**
 
-The **Hostel Vacancy Management System** is a software solution designed to manage the availability of rooms in hostels. It provides functionalities for both students and administrators, enabling efficient hostel room management and accommodation booking.
+This **Hostel Vacancy Management System** is designed to manage the availability of rooms in hostels. It provides functionalities for both students and administrators, enabling efficient hostel room management.
 
 ## **💡 Features**
 
@@ -26,7 +26,6 @@ The **Hostel Vacancy Management System** is a software solution designed to mana
 - **Python:** Main programming language for development.
 - **Tkinter:** GUI framework for building the user interface.
 - **MySQL:** Database management for storing hostel data.
-- **CSV Files:** For storing historical data.
 
 ## **🚀 Installation & Setup**
 
