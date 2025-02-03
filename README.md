@@ -26,9 +26,3 @@ This **Hostel Vacancy Management System** is designed to manage the availability
 - **Python:** Main programming language for development.
 - **Tkinter:** GUI framework for building the user interface.
 - **MySQL:** Database management for storing hostel data.
-
-## **🚀 Installation & Setup**
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-repository/hostel-vacancy-management.git
